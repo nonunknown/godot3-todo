@@ -31,6 +31,8 @@ func great_plugin():
   #Implement this awesome plugin
 ```
 
+## Plugin in action:
+
 ![Preview of TODO](preview/todo.gif)
 
 [![Shamelessly begging for tips](https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0)](https://ko-fi.com/A0A4H42F)
